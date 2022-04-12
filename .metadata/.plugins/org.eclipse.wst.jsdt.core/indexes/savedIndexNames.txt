@@ -1,0 +1,23 @@
+INDEX VERSION 1.4+/Users/klow_on/Desktop/TIS/spring-lecture/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3570935623.index
+1422275382.index
+1353507171.index
+2382689562.index
+2860032912.index
+3327540313.index
+1736378771.index
+1638436217.index
+629162514.index
+1923694970.index
+1169550036.index
+1750709357.index
+3745879633.index
+349592176.index
+4267224152.index
+72406416.index
+3056750782.index
+2183676925.index
+4195086649.index
+3011626843.index
+3327386311.index
+3821730911.index

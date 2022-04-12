@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.jjang051.model&apos; to &apos;11-spring-todo-list/src/main/java&apos;&#x0A;- Original project: &apos;10-spring-member-board-xml&apos;&#x0A;- Destination element: &apos;11-spring-todo-list/src/main/java&apos;&#x0A;- Original element: &apos;10-spring-member-board-xml/src/main/java/com.jjang051.model&apos;" description="Copy package" destination="=11-spring-todo-list/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.jjang051.model" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1646628531616" version="1.0"/>
+</session>

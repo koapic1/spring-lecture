@@ -1,0 +1,7 @@
+IMPORT_FILES_AND_FOLDERS_RELATIVE=true
+IMPORT_FILES_AND_FOLDERS_TYPE=7,1\:23,1
+eclipse.preferences.version=1
+org.eclipse.ui.internal.views.markers.CachedMarkerBuilderorg.eclipse.ui.views.AllMarkersView=<?xml version\="1.0" encoding\="UTF-8"?>\n<filterGroups andFilters\="false" markerLimit\="100" markerLimitEnabled\="true">\n<filterGroup IMemento.internal.id\="USER1645408573074" enabled\="false" filterLimit\="0" name\="New Configuration" scope\="0" workingSet\="Aggregate for window 1645403802683">\n<fieldFilter FILTER_ON_SEVERITY\="false" IMemento.internal.id\="org.eclipse.ui.ide.allSeverityField" containsModifier\="CONTAINS" containsText\="" selectedSeverities\="7"/>\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.markerType"/>\n</filterGroup>\n</filterGroups>
+platformState=1640133072302
+quickStart=false
+tipsAndTricks=true

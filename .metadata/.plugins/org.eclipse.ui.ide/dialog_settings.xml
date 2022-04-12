@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/klow_on/Desktop/TIS/spring-lecture/13-spring-reply-gallery"/>
+			<item value="/Users/klow_on/Desktop/TIS/spring-lecture/12-spring-corona"/>
+			<item value="/Users/klow_on/Desktop/TIS/spring-lecture/11-spring-todo-list"/>
+			<item value="/Users/klow_on/Desktop/TIS/spring-lecture/10-spring-member-board-xml"/>
+			<item value="/Users/klow_on/Desktop/TIS/spring-lecture/10-spring-member-board"/>
+			<item value="/Users/klow_on/Desktop/TIS/spring-lecture/spring_setting_java"/>
+			<item value="/Users/klow_on/Desktop/TIS/spring-lecture/spring_setting_xml"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.views.markers.FiltersConfigurationDialog">
+		<item key="SELECTED_FILTER_GROUP" value="New Configuration"/>
+		<list key="PREV_SELECTED_ELEMENTS">
+		</list>
+	</section>
+</section>

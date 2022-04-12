@@ -1,0 +1,25 @@
+package com.jjang051.config;
+
+import org.springframework.beans.propertyeditors.ClassArrayEditor;
+import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
+
+// web.xml
+public class SpringConfig extends AbstractAnnotationConfigDispatcherServletInitializer{
+
+	// 프로젝트에 사용할 Beans 정의하기 위한 class지정
+	@Override
+	protected Class<?>[] getRootConfigClasses() {
+		return new Class[] {RootAppContext.class};
+	}
+
+	@Override
+	protected Class<?>[] getServletConfigClasses() {
+		return new class[] {ServletAppContext.class};
+	}
+
+	@Override
+	protected String[] getServletMappings() {
+		return null;
+	}
+	
+}
